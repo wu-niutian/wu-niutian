@@ -1,5 +1,5 @@
 - 👋 Hi, This is @wu-niutian
-- 🌱 I’m currently learning Swift anf Python 
+- 🌱 I’m currently learning Swift and Python 
 - 📫 Reach me at wuniutian@gmail.com
 
 <!---
